@@ -1,0 +1,101 @@
+CustomerID,Age,IncomeUSD,TenureMonths,AvgMonthlySpendUSD,NumSupportTickets,ContractType,Region,PaymentMethod,PromoUsed,LatePaymentsLast6Mo,Churn,ChurnFlag_Leak
+84,62,40220.0,14,133.14,2,One-year,South,,No,0,No,0
+54,42,88386.0,26,61.42,5,Month-to-month,,Credit Card,No,1,No,0
+71,60,93832.0,20,127.77,1,One-year,South,Debit Card,No,5,Yes,1
+46,69,63565.0,15,115.29,0,Two-year,Northeast,Debit Card,No,3,No,0
+45,21,57381.0,55,76.16,1,One-year,South,Credit Card,Yes,1,No,0
+40,51,65225.0,58,87.29,1,Month-to-month,South,Credit Card,Yes,0,No,0
+23,27,42038.0,37,112.27,2,Month-to-month,Midwest,Debit Card,Yes,2,No,0
+81,67,53484.0,0,81.85,0,Two-year,West,Credit Card,No,2,No,0
+11,45,49415.0,40,77.84,0,Two-year,South,Credit Card,Yes,1,No,0
+1,22,77220.0,22,152.17,0,One-year,Midwest,Debit Card,No,3,No,0
+19,62,250000.0,57,,1,Month-to-month,Northeast,Credit Card,Yes,4,No,0
+31,41,76261.0,33,245.87,0,,Northeast,Bank Transfer,No,5,No,0
+74,24,68227.0,22,120.0,0,,Northeast,Credit Card,No,3,No,0
+34,47,53085.0,50,105.63,1,One-year,Midwest,Debit Card,No,3,No,0
+91,41,100941.0,45,133.19,0,Month-to-month,Northeast,PayPal,No,2,No,0
+5,40,38771.0,33,136.88,1,Month-to-month,Northeast,Bank Transfer,Yes,2,Yes,1
+77,35,80032.0,44,,1,Month-to-month,Midwest,Debit Card,No,4,No,0
+78,30,71424.0,45,224.66,1,One-year,South,PayPal,No,5,No,0
+13,56,34708.0,7,76.09,2,Month-to-month,Midwest,,Yes,1,Yes,1
+32,30,,22,213.84,2,One-year,South,PayPal,Yes,1,No,0
+56,20,78275.0,60,137.08,0,Month-to-month,Northeast,Credit Card,No,4,No,0
+89,58,70643.0,54,64.48,0,Month-to-month,Midwest,Debit Card,Yes,0,No,0
+27,39,67564.0,14,128.83,2,Month-to-month,Northeast,,No,2,No,0
+43,55,76977.0,37,66.88,1,Month-to-month,Northeast,Credit Card,Yes,0,No,0
+70,42,65393.0,47,170.64,1,Two-year,West,Credit Card,No,0,No,0
+16,59,75552.0,40,,1,One-year,South,Debit Card,No,2,No,0
+41,26,,38,12.64,1,One-year,Northeast,Bank Transfer,No,0,No,0
+97,30,50367.0,2,193.57,1,One-year,Northeast,PayPal,No,5,No,0
+10,22,91909.0,6,117.56,2,One-year,South,Credit Card,Yes,0,No,0
+73,42,46577.0,25,122.66,0,One-year,West,Credit Card,No,1,No,0
+12,69,,41,59.06,1,Month-to-month,West,Bank Transfer,Yes,0,No,0
+48,65,38952.0,57,46.65,1,Month-to-month,West,Credit Card,No,2,No,0
+86,55,61000.0,7,32.77,4,Month-to-month,Northeast,Credit Card,Yes,1,Yes,1
+29,46,57309.0,8,124.52,1,Month-to-month,West,,Yes,2,No,0
+94,38,47188.0,36,,0,One-year,Northeast,Debit Card,No,4,No,0
+6,63,59246.0,8,190.37,1,Month-to-month,Midwest,PayPal,No,2,No,0
+67,65,,28,131.61,1,One-year,Northeast,PayPal,No,3,No,0
+66,35,38971.0,31,106.68,3,Two-year,South,PayPal,Yes,5,No,0
+36,21,58129.0,49,90.46,2,Month-to-month,Northeast,Debit Card,No,2,No,0
+17,45,77802.0,44,121.53,4,Month-to-month,Northeast,Credit Card,No,0,No,0
+50,59,47050.0,10,55.63,0,Month-to-month,Northeast,Credit Card,No,0,No,0
+35,65,58465.0,28,46.83,3,Month-to-month,West,Credit Card,No,0,Yes,1
+8,54,53500.0,33,152.2,3,Two-year,South,Credit Card,Yes,2,No,0
+96,33,69819.0,53,127.63,0,One-year,Midwest,PayPal,No,1,No,0
+28,61,77429.0,2,65.78,2,Month-to-month,Midwest,Bank Transfer,Yes,1,No,0
+20,41,56678.0,46,170.14,1,Month-to-month,,Credit Card,No,1,No,0
+82,41,48322.0,57,64.38,2,Month-to-month,South,Bank Transfer,Yes,3,No,0
+26,52,73949.0,14,132.12,1,,West,Credit Card,No,5,No,0
+63,37,72820.0,13,113.31,2,Month-to-month,South,Debit Card,No,3,No,0
+14,58,,17,103.29,1,Month-to-month,West,,Yes,4,No,0
+25,59,,59,108.81,0,Month-to-month,Midwest,PayPal,Yes,3,No,0
+4,41,76363.0,54,111.83,0,Month-to-month,Midwest,Credit Card,No,1,No,0
+18,24,79280.0,44,95.79,1,Month-to-month,West,Credit Card,No,5,No,0
+39,32,56551.0,12,83.55,1,One-year,South,Credit Card,No,0,Yes,1
+9,28,,19,17.49,2,One-year,West,PayPal,No,4,No,0
+79,47,91339.0,23,198.67,0,One-year,Midwest,Credit Card,No,4,No,0
+7,22,56533.0,18,124.53,1,One-year,West,Debit Card,No,2,Yes,1
+65,39,-15000.0,7,108.09,0,One-year,Northeast,Credit Card,No,2,Yes,1
+37,63,43475.0,58,135.78,2,Month-to-month,South,Bank Transfer,Yes,2,No,0
+90,62,80086.0,9,96.42,1,Two-year,Northeast,Debit Card,No,5,No,0
+57,46,48195.0,9,206.43,2,Month-to-month,South,Credit Card,No,1,No,0
+100,25,62466.0,18,128.83,1,Month-to-month,Midwest,Debit Card,No,2,No,0
+55,44,58587.0,59,101.59,0,Month-to-month,,Credit Card,No,1,Yes,1
+44,36,63227.0,31,93.53,3,Two-year,West,Credit Card,No,5,No,0
+51,58,72196.0,32,65.16,0,Month-to-month,South,Credit Card,No,1,No,0
+68,37,55469.0,19,92.23,1,Month-to-month,West,Credit Card,Yes,0,Yes,1
+47,41,34628.0,60,32.11,0,Month-to-month,West,Debit Card,Yes,4,No,0
+69,120,69188.0,1,143.58,2,One-year,South,Credit Card,Yes,2,No,0
+62,57,33908.0,54,101.19,1,Month-to-month,Midwest,Debit Card,Yes,5,No,0
+98,54,57524.0,11,,3,Two-year,Midwest,Credit Card,No,2,No,0
+80,53,,16,139.29,1,Two-year,West,Credit Card,No,3,No,0
+42,5,73038.0,17,111.87,2,Two-year,Midwest,Credit Card,No,2,No,0
+59,57,47900.0,5,107.74,1,Month-to-month,West,Credit Card,No,4,No,0
+49,53,41191.0,11,226.46,2,Month-to-month,West,Credit Card,No,5,No,0
+99,51,53982.0,17,108.16,1,One-year,South,Bank Transfer,No,5,No,0
+58,26,61302.0,54,70.66,1,Two-year,West,Credit Card,Yes,5,No,0
+76,43,89465.0,5,135.82,2,One-year,Midwest,,No,0,No,0
+33,22,73222.0,-3,77.34,3,One-year,South,Credit Card,No,2,No,0
+95,65,26623.0,43,107.4,2,Month-to-month,,Credit Card,Yes,4,No,0
+60,54,58897.0,45,158.87,0,,Midwest,PayPal,No,5,No,0
+64,69,69279.0,54,51.26,0,One-year,Northeast,Credit Card,No,5,No,0
+85,51,76433.0,1,144.01,1,Month-to-month,Midwest,Credit Card,No,0,No,0
+38,61,73766.0,19,180.29,2,Month-to-month,West,Debit Card,Yes,1,No,0
+30,41,67854.0,33,131.41,0,One-year,South,PayPal,No,1,No,0
+2,59,66216.0,50,100.27,0,Month-to-month,Northeast,Debit Card,No,2,No,0
+53,37,58193.0,18,265.25,1,One-year,Northeast,Debit Card,No,0,No,0
+22,37,61557.0,6,186.87,3,Month-to-month,Midwest,Credit Card,Yes,0,No,0
+3,52,70204.0,0,119.74,1,Month-to-month,West,Credit Card,No,0,No,0
+24,67,44601.0,55,85.2,0,Month-to-month,South,PayPal,No,4,No,0
+88,34,46720.0,50,999.99,2,One-year,West,Credit Card,No,0,No,0
+92,60,117450.0,10,122.62,1,Two-year,Midwest,Credit Card,No,3,No,0
+75,54,68960.0,54,83.92,1,Month-to-month,South,Bank Transfer,No,2,No,0
+87,23,38525.0,4,,2,Month-to-month,Northeast,Debit Card,Yes,2,No,0
+83,26,57983.0,57,179.56,2,One-year,South,Credit Card,No,3,No,0
+21,44,80444.0,19,146.91,2,Two-year,West,PayPal,No,1,No,0
+61,66,80126.0,51,141.74,3,One-year,South,Credit Card,No,0,No,0
+72,28,60692.0,40,137.59,1,Two-year,,Debit Card,Yes,1,No,0
+15,56,67930.0,14,165.8,1,Month-to-month,South,Debit Card,Yes,0,No,0
+93,62,72459.0,22,105.39,1,Month-to-month,Midwest,PayPal,No,3,No,0
+52,28,48701.0,2,211.85,2,Two-year,South,Credit Card,No,1,No,0
